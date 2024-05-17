@@ -1,4 +1,4 @@
-// File: C:\Users\yeonny\Desktop\nomad\start-nextJs\app\layout.tsx
+// File: C:\Users\yeonny\Desktop\nomad\nextJs-challenge-fin\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
